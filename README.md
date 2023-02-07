@@ -1,2 +1,2 @@
 # reserveringssysteem_engarde
-hi this is my website for making reservations of products. it works but its not perfect
+hi this is my website for making reservations of products. its not perfect but it works
